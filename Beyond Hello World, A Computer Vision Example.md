@@ -2,7 +2,7 @@
 
 ### Start Coding-
 
-[Run this code on Jupyter Notebook with Google Colab]()
+[Run this code on Jupyter Notebook with Google Colab](https://github.com/Dipeshpal/Machine-Learning-for-Vision-With-Tensorflow/blob/master/Beyond_Hello_World%2C_A_Computer_Vision_Example.ipynb)
 
 Let's start with our import of TensorFlow
 
@@ -96,3 +96,7 @@ For the 7, the probability was .999+, i.e. the neural network is telling us that
 #### Answer
 
 The correct answer is (2). Both the list and the labels are 0 based, so the ankle boot having label 9 means that it is the 10th of the 10 classes. The list having the 10th element being the highest value means that the Neural Network has predicted that the item it is classifying is most likely an ankle boot
+
+
+More options and readings can be found on colab notebook
+[Run this code on Jupyter Notebook with Google Colab](https://github.com/Dipeshpal/Machine-Learning-for-Vision-With-Tensorflow/blob/master/Beyond_Hello_World%2C_A_Computer_Vision_Example.ipynb)
