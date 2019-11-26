@@ -1,6 +1,6 @@
 ### **Exercise_1_House_Prices_Question**
 
-[Jupyter Notebook Link](https://github.com/Dipeshpal/Machine-Learning-for-Vision-With-Tensorflow/blob/master/Exercise_1_House_Prices_Question.ipynb)
+[Run this code on Jupyter Notebook with Google Colab](https://github.com/Dipeshpal/Machine-Learning-for-Vision-With-Tensorflow/blob/master/Exercise_1_House_Prices_Question.ipynb)
 
 In this exercise you'll try to build a neural network that predicts the price of a house according to a simple formula.​
 
