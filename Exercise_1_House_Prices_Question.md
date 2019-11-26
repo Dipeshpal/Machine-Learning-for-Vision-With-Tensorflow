@@ -1,5 +1,7 @@
 ### **Exercise_1_House_Prices_Question**
 
+[Jupyter Notebook Link](https://github.com/Dipeshpal/Machine-Learning-for-Vision-With-Tensorflow/blob/master/Exercise_1_House_Prices_Question.ipynb)
+
 In this exercise you'll try to build a neural network that predicts the price of a house according to a simple formula.​
 
 So, imagine if house pricing was as easy as a house costs 50k + 50k per bedroom, so that a 1 bedroom house costs 100k, a 2 bedroom house costs 150k etc.
