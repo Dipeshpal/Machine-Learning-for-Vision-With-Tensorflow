@@ -14,7 +14,7 @@ By the end of this reading you will able to build your own neural networks and h
 
 #### Credits-
 
-All codes and credit [https://www.coursera.org/learn/introduction-tensorflow/](https://www.coursera.org/learn/introduction-tensorflow/)
+All codes and credit [https://www.coursera.org/learn/introduction-tensorflow/](https://www.coursera.org/learn/introduction-tensorflow/).
 This repo doesn't include any assignment answers. This repo just have colab notebooks and codes. By reading these documents and codes you will able to build your own neural network and get lots of insight of Machine Learning.
 
 #### How to get started-
