@@ -20,6 +20,8 @@ This repo doesn't include any assignment answers. This repo just have colab note
 #### How to get started-
 **Just start reading following points, this links will redirect you to several pages and colab notebooks. By the end of followning points you will have lots of ideas.**
 
+**Note-** Must read all the links and their respected colab notebooks. 
+
 1. [Exercise_1_House_Prices_Question (Getiing Started with Tensorflow)](https://github.com/Dipeshpal/Machine-Learning-for-Vision-With-Tensorflow/blob/master/Exercise_1_House_Prices_Question.md)
 
 2. [Beyond Hello World, A Computer Vision Example](https://github.com/Dipeshpal/Machine-Learning-for-Vision-With-Tensorflow/blob/master/Beyond%20Hello%20World%2C%20A%20Computer%20Vision%20Example.md)
